@@ -1,18 +1,9 @@
-### Hi folks 👋
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=mathsv&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-
-### I'm a computer science student.
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=mathsv&color=f8efd4&style=for-the-badge&logo=GitHub">
+### Hi, I'm a computer science student 💻
 
 - 🔭 I’m currently working on with Python for some data analytics projects. And starting to learn Machine Learning.
 - 🌱 I’m currently learning Java for backend
 
-<hr>
-
-<a href="https://github.com/mathsv">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsv&theme=dracula&hide_langs_below=1" />
-</a>
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64eb8605b128dce3cb7fef62?variant=dark)](https://roadmap.sh)
+## ⭐ Stats
+| ![Matheus' github stats](https://github-readme-stats.vercel.app/api?username=mathsv&show_icons=true&theme=tokyonight) | ![Matheus GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathsv&theme=tokyonight) |
+| --- | --- |
+|[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64eb8605b128dce3cb7fef62?variant=dark&roadmaps=backend%2Cpython%2Cjava)](https://roadmap.sh) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathsv&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
