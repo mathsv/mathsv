@@ -7,7 +7,7 @@
 - Master AWS S3 and Glue.
 - Learn Apache Airflow for workflow automation.
 
-### Highlighted Projects
+### 🚧 Highlighted Projects
 
-### Tech & Tools:
+### 🛠️ Tech & Tools:
 
