@@ -10,4 +10,6 @@ I'm currently deepening my knowledge and applying skills in Python, SQL, ETL, da
 ### 🚧 Highlighted Projects
 
 ### 🛠️ Tech & Tools:
-
+- Python (pandas, polars, numpy)
+- SQL
+- Databases: Teradata, PostgreSQL
